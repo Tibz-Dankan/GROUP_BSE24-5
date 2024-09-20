@@ -16,11 +16,6 @@ To install the Docease frontend repo locally, follow these steps:
 
 ### Steps
 
-1. **
-
-   cd docease-frontend
-   ```
-
 1. **Install dependencies**:
 
    ```sh
