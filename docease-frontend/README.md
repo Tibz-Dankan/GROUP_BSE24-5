@@ -16,10 +16,7 @@ To install the Docease frontend repo locally, follow these steps:
 
 ### Steps
 
-1. **Clone the repository**:
-
-   ```sh
-   https://github.com/Tibz-Dankan/docease-frontend.git
+1. **
 
    cd docease-frontend
    ```
